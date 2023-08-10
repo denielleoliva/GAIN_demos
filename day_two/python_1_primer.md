@@ -1,4 +1,4 @@
-# GAIN summer 2021, Python primer I
+# GAIN summer 2023, Python primer I
 
 ## Topics to cover
 
@@ -9,7 +9,7 @@
 
 # Why Python ?
 
-The idea of this course is to introduce scientists without any, or much, prior programming experience to a language that can be useful for their needs. The choice of the first programming language to learn may not be as important as you think; once you have learned one, learning additional languages will be much much easier, and you are nearly guaranteed to utilize additional languages at some point in your career. Nonetheless, the two scripting languages that have been most heavily used in bioinformatics and data science are **Perl** and **Python**. There are a number of reasons that Python has become the ideal language to learn first for data science:
+The idea of this course is to introduce scientists without any, or much, prior programming experience to a language that can be useful for their needs. The choice of the first programming language to learn may not be as important as you think; once you have learned one, learning additional languages will be much much easier, and you are nearly guaranteed to utilize additional languages at some point in your career. There are a number of reasons that Python has become the ideal language to learn first for data science:
 
 - It is one of the most common languages used in biology and other fields of science. Thus, you will be able to find a lot of documentation, guidance, examples, and opinion on the web.
 - It has excellent capabilities for manipulating text, suiting it well to bioinformatics and data science.
