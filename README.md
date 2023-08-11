@@ -3,7 +3,6 @@
 
 ## GAIN program Summer 2023    
 **Prof**: Dr. Thomas Parchman; SFB 209; tparchman@unr.edu   
-**Co-instructor**: Trevor Faske; tfaske@nevada.unr.edu \
 **Workshop hours**: 9:00-11:00 AM, August 20, 21, 
 
 
