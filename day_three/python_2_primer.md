@@ -10,11 +10,13 @@
 ## Helpful materials:
 - Haddock and Dunn chapter 9 and Chapter 10 pdfs (Haddock_Dunn_Chap10.pdf
 Haddock_Dunn_Chap9.pdf)
-- [Python for biologists](https://pythonforbiologists.com/introduction) tutorial sections:
+- [Python for biologists](https://pythonforbiologists.com/tutorial.html) tutorial sections:
 
-  - [printing and manipulating text](https://pythonforbiologists.com/printing-and-manipulating-text)
-  - [lists and loops](https://pythonforbiologists.com/lists-and-loops)
-  - [working with files](https://pythonforbiologists.com/working-with-files)
+  - [printing and manipulating text](https://pythonforbiologists.com/tutorial/text.html)
+  - [lists and loops](https://pythonforbiologists.com/tutorial/lists.html)
+  - [working with files](https://pythonforbiologists.com/tutorial/files.html)
+  - [conditionals](https://pythonforbiologists.com/tutorial/conditions.html)
+  - [regular expressions](https://pythonforbiologists.com/tutorial/regex.html)
 <p>&nbsp;</p>
 
 # 1. Lists
