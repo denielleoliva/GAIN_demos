@@ -33,6 +33,9 @@ II. Alternatively, you can create and work with jupyter notebooks using the Anac
 
 [Download and install Anaconda Navigator here](https://docs.anaconda.com/free/navigator/index.html)
 
+[Intalling Anaconda Navigator in Windows](https://docs.anaconda.com/free/anaconda/install/windows/)
+
+[Intalling Anaconda Navigator in MacOS](https://docs.anaconda.com/free/anaconda/install/mac-os/)
 You can start Jupyter from the `Jupyter Notebook` icon in the application menu. 
 
 ![My Image](images/navigator_menu.png)
