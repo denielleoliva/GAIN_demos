@@ -11,18 +11,6 @@ Modern biology, and other fields of science, are increasingly shaped by data set
 
 This short module will introduce students to basic computational tools, focusing on Unix and Python, to support data proficiency. We will start at the most basic level, assuming zero or limited previous experience, and aim to build enough familiarity for students to feel equipped and motivated to learn more on their own. Our overall goal is to provide an entry point for students to gain further expertise in simple programming and efficient manipulation and analysis of large-scale data sets. As our time together is extremely limited, I aim to introduce you to linux and python, attempting to describe why writing code in these languages is useful. I have attempted to put together fairly easy to follow modules written in markdown so that you have introductory resources available for getting started with Linux and Python. The continued development of proficiency with these and similar skillsets are guaranteed to improve the efficacy and quality pf graduate research and productivity.
 
-## Student Learning Outcomes
-By the end of the module, students should have learned enough to feel enabled and motivated to learn more Unix and Python. Thus, this module will serve to introduce students to programming, to prepare them for more in depth courses, and most importantly to provide a foundation for ongoing independent learning. 
-
-Specific Student Learning Outcomes:
-
-- Students will be able to operate in a Unix computing environment, and will understand the basic use of Unix computing clusters for research.
-     
-- Students will be able to write basic programs in Python in order to efficiently manipulate and work with large scale data.
-
-- Students will have enough exposure to freely available resources for Unix and Python to continue independently learning programming skills.
-
-- Students will be able to use basic Unix and Python skills to manipulate large data sets, and to conduct basic analyses of genome level DNA sequencing data.
 
 ## Required Materials
 
@@ -32,7 +20,7 @@ Specific Student Learning Outcomes:
 
 - **Installed text editor with syntax recognition** Students should install a text editor that will recognize syntax from code written for Unix, Python, Perl, etc. I suggest BBedit (for mac users), Visual Studio Code, or Sublime. All are free and easy to locate, download, and install.
 
-- **Supplemental primers, readings and assignments** are provided on the [workshop github page](https://github.com/tparchman/GAIN_2023).
+- **Supplemental primers, tutorials, and other materials** are provided on the [workshop github page](https://github.com/tparchman/GAIN_2023).
 
 ### Suggested resources for more in depth learning
 * **Practical computing for biologists** Haddock, S.H.D. and Dunn, C.W., 2011. Sunderland, MA, USA: Sinauer Associates. The book is very useful for both Unix and Python.
@@ -44,19 +32,19 @@ Specific Student Learning Outcomes:
 [Python for Biologists](https://pythonforbiologists.com/introduction)
 
 ## Workshop Format
-We will meet from 9:00-11:00 each weekday morning from August 6th to August 12th. At the beginning of each session, we will introduce new concepts and material that will form the basis of the markdown primers I provide for introductory exercises. We will cover questions or discussion, and then students will spend at least half of each period working through the primers independently or in small groups. Given limited time, I at least hope that these primers may serve a somewhat useful introduction for those wanting to learn more.
+We will meet from 9:00-11:00 on August 21st and 22nd. At the beginning of each session, we will introduce new concepts and material that will form the basis of the markdown primers I provide for introductory tutorials or exercises. We will cover questions or discussion, and then students will spend at least half of each period working through the primers independently or in small groups. Given limited time, I at least hope that these primers may serve a somewhat useful introduction for those wanting to learn more.
 
 ## Workshop Material Organization
 
-The material for each day of the workshop will be organized in separate directories on [workshop github page](https://github.com/tparchman/GAIN_2023). Each of these directories will contain the slides that we will use to introduce material, a primer covering example Unix and Python code along with explanations, and a worksheet of programming practice exercises. There are also general directories on the repository with supplementary resources for Unix and Python, including cheat sheets, tutorials, and recommended resources for learning more.
+The material for each day of the workshop will be organized in separate directories on [workshop github page](https://github.com/tparchman/GAIN_2023). Each of these directories will contain the slides that we will use to introduce material, a primer covering example Unix, Python, and R code along with explanations, and a number of programming practice exercises. There are also general directories on the repository with supplementary resources for Unix and Python, including cheat sheets, tutorials, and recommended resources for learning more.
 
 ### Downloading material from github using `git`
 
-While you can download indidvidual files from github using your preferred web browser, you can also use the UNIX command to access github as well. Using git commands can get complicated very quickly, it is a very useful skill to have for reproducibility, tracking changes, and collaboration. We do not go over git in this course but there are many tutorials online (http://swcarpentry.github.io/git-novice/). 
+While you can download indidvidual files from github using your preferred web browser, you can also use the UNIX command line to access github far more usefully. Although using git commands can get complicated, it is a very useful skill to have for reproducibility, tracking changes, and collaboration. We do not go over git in this course but there are many tutorials online (http://swcarpentry.github.io/git-novice/). 
 
 For this course, downloading individual files might suffice. But if you would like to download the entire repo, you can do so through the command line using the below command:
 
-**hint:** make a directory somewhere on your computer for this workshop. Run below command in that directory.
+**hint:** make a directory somewhere on your computer for this workshop. Run below command in that directory from the linux/unix terminal.
 
 ```
 git clone https://github.com/tparchman/GAIN_2023
@@ -65,11 +53,11 @@ git clone https://github.com/tparchman/GAIN_2023
 ## Workshop Schedule
 *Tentative Workshop Schedule. All contents are subject to change.
 
-| Date    |  Topic          |  Assignment |
+| Date    |  Topic          |  Activities |
 | --------- | ---------------| -------------| 
-| Aug. 20  | Intro, Unix    | Unix assignments  | 
-| Aug. 21  |	Python I | python1_practice_scripts.md |
-| Aug. 21  |	Python II	   | python2_practice_scripts.md |
+| Aug. 21 | Intro, Unix, Rmd    | Unix tutorial, R markdown tutorial  | 
+| Aug. 22  |	Python, Jupyter notebooks | Python primers 1 and 2 |
+
 | ------ | ---------------| --------------------------------| 
 |
 
